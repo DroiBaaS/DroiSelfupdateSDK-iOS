@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "DroiSelfupdateSDK"
-s.version          = "0.0.1"
+s.version          = "0.0.2"
 s.summary          = "卓易自更新SDK"
 s.description      = "帮助开发者快速集成更新功能"
 s.homepage         = "https://github.com/DroiBaaS"
